@@ -1,0 +1,32 @@
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Project Specific
+logs/application_log.csv
+logs/daily_stats.json
+logs/*.log
+logs/*.csv
+data/contacts.csv
+data/*.xlsx
+data/*.pdf
+# Keep the example files
+!data/example_contacts.csv
+!resume/example_resume.pdf
+
+# Sensitive resumes
+resume/*.pdf
+!resume/example_resume.pdf
+
+# OS specific
+.DS_Store
+Thumbs.db

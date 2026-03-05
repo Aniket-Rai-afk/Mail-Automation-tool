@@ -1,0 +1,28 @@
+Subject: Quick question regarding cybersecurity opportunities at {company}
+
+Hi {name},
+
+I hope you are doing well.
+
+{personalized_line}
+
+My name is Aniket Rai, a Computer Science graduate from VIT with hands-on experience in cybersecurity engineering, DevSecOps practices, and AWS cloud security.
+
+I wanted to reach out to check if there might be any opportunities related to Cybersecurity Analyst, Security Consulting, or DevSecOps roles within your organization.
+
+In my recent work as a Cybersecurity Engineer, I have been involved in integrating security into CI/CD pipelines, performing vulnerability assessments and penetration testing (VAPT), and developing Python-based automation for security monitoring and log analysis. I also have experience working with AWS security services, IAM governance, and infrastructure security.
+
+If there are any relevant openings at {company}, I would greatly appreciate any guidance or referrals. I have attached my resume for your reference, and you can also view my portfolio below.
+
+Portfolio: https://aniket-rai-portfolio.netlify.app/
+
+Thank you very much for your time and consideration.
+
+Best regards,  
+Aniket Rai  
+Cybersecurity Engineer  
+
+📧 aniiket2004@gmail.com  
+📱 +91 8103128081  
+🔗 LinkedIn: https://linkedin.com/in/aniket-rai-694b5b244  
+🌐 Portfolio: https://aniket-rai-portfolio.netlify.app/
